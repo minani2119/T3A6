@@ -61,4 +61,4 @@ solicitar los datos del empleado:
 ![](https://github.com/minani2119/T3A6/blob/0942246643810b8c00dee62ce6b01cae546739c4/t3a6.jpeg)
 
 ## etapa4
-
+https://github.com/minani2119/T3A6/blob/503bce1bfbd1d710316240d485381456b8a51eea/T3A6.rar

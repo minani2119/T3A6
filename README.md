@@ -40,12 +40,12 @@ solicitar los datos del empleado:
 +------------------------------------------------------------------+
 | 1.ingrese la sucursal:   la sucursal es   sucursal cdmx          |
 | 2.ingrese el numero de empleados:  el numero de empleados es 300 |
-| 3.ingrese el nombre del empleado:    Mateo                       |
-| 4.ingrese el apellido paterno:    cordova                        |
-| 5.ingrese el apellido materno:   Nativo                          |
+| 3.ingrese el nombre del empleado:    evelin                      |
+| 4.ingrese el apellido paterno:    rivera                         |
+| 5.ingrese el apellido materno:   benavides                       |
 | 6.ingrese el rfc:           12345678                             |
 | 7.ingrese el curp: mate12334drfgfdh                              |
-| 8.ingrese el correo electronico: Sr.NavikOficial16@gmail.com     |
+| 8.ingrese el correo electronico: evelinrivera162002@gmail.com    |
 | 9.ingrese el numero de telefono: 1223334422                      |
 | 10.ingrese el numero de contrato del empleado: 12                |
 |11. introduce la seleccion a la que pertenece: contador           |
@@ -55,5 +55,7 @@ solicitar los datos del empleado:
 |15. su nomina por la empresa es: 1137.40264                       |
 +------------------------------------------------------------------+
 
+~~~
+## etapa3
 
-
+![](

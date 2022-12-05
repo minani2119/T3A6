@@ -58,4 +58,7 @@ solicitar los datos del empleado:
 ~~~
 ## etapa3
 
-![](
+![](https://github.com/minani2119/T3A6/blob/0942246643810b8c00dee62ce6b01cae546739c4/t3a6.jpeg)
+
+## etapa4
+
